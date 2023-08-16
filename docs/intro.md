@@ -4,6 +4,8 @@ sidebar_position: 0
 
 # Doomer Intro
 
+![meme](./img/meme.jpg)
+
 This is all about the Udemy course  **"A master guide to gang of four design patterns & SOLID design principles using Java"**
 
 **Almost 99% of this site's content is written by AI. (Google Bard). If you find some cringy stuff, it's written by me, rest all AI. No idea bro, it's easy and actually made me understand and allowed me to tick those boxes on Udemy. AI could actually overtake humanity 💀**
