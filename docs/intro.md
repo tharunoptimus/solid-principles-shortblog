@@ -1,47 +1,16 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
-# Tutorial Intro
+# Doomer Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+This is all about the Udemy course  **"A master guide to gang of four design patterns & SOLID design principles using Java"**
 
-## Getting Started
+**Almost 99% of this site's content is written by AI. (Google Bard). If you find some cringy stuff, it's written by me, rest all AI. No idea bro, it's easy and actually made me understand and allowed me to tick those boxes on Udemy. AI could actually overtake humanity 💀**
 
-Get started by **creating a new site**.
+Some of the topics might not be listed in the upcoming stuff (slides? not sure), likely because the course I read was minified (curated to the core I believe). 
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
-### What you'll need
+Some of the code might use TypeScript along the way. It's not too different from JS. Almost the same syntax. Like `implements` instead of `extends` while inheriting classes. In TS, implements means, it uses the interface but doesn't inherit. Extends inherits the parent class. Almost the same, but different.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+GG
