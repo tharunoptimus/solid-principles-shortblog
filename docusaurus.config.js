@@ -60,7 +60,7 @@ const config = {
         title: 'SOLID With JS',
         logo: {
           alt: 'SOLID With JS',
-          src: 'img/logo.svg',
+          src: 'img/docusaurus.png',
         },
         items: [
           {
